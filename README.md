@@ -13,6 +13,18 @@ A command line interface application that is used to type commands, modify files
 Video - https://www.youtube.com/watch?v=SkB-eRCzWIU
 
 #### Putty 
-A terminal emulator. It allows secure access to a linux terminal. This is typically used on a Windows machine to access the linux terminal of a server. 
+A terminal emulator. It allows secure access to a linux terminal. This is typically used on a Windows machine to access the linux terminal of a server using SSH. 
 
 Video -  https://www.youtube.com/watch?v=pWDHUlvcAsg
+
+
+## Lesson 1 - The Basics of Putty
+
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
