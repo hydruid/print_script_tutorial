@@ -20,8 +20,19 @@ Video -  https://www.youtube.com/watch?v=pWDHUlvcAsg
 
 ## Lesson 1 - The Basics of Putty
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+#### Connect
+We will use raspberrypi as our hostname for this tutorial. Let us start with connecting. You will need to know your username and password. 
 
+![Putty Connect](https://i.ibb.co/VHPpWTz/putty1.png)
+![Putty Connected CLI](https://i.ibb.co/D1PnyRd/putty2.png)
+
+#### Colors
+Now that we are connected, lets change our color scheme.  
+
+![Putty Change Settings](https://i.ibb.co/562Zqrv/putty3.png)
+![Putty Connected CLI](https://i.ibb.co/D1PnyRd/putty2.png)
+
+## Misc
 Some basic Git commands are:
 ```
 git status
