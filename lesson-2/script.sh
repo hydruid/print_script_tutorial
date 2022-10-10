@@ -1,4 +1,8 @@
 #!/bin/bash
 #Lesson-2
 
-#echo "hello world"
+echo "b"
+echo "l"
+echo "a"
+echo "d"
+#echo "e"

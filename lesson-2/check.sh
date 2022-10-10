@@ -1,11 +1,12 @@
 #!/bin/bash
 
-if grep -q 'HELLO WORLD' "script.sh"; then
-  echo "Script is valid, move on to lesson-2"
-  echo " " 
-  echo "cd .."
-  echo "cd lesson-2"
+if grep -q '#echo' "script.sh"; then
+  echo "Script is not valid, TRY AGAIN"
   exit 0
 fi
 
-echo "Script is not valid, TRY AGAIN"
+echo "Script is valid, move on to lesson-3"
+echo " " 
+echo "cd .."
+echo "cd lesson-3"
+exit 0
