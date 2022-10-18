@@ -5,7 +5,7 @@ if grep -q '#echo' "script.sh"; then
   exit 0
 fi
 
-echo "Script is valid, move on to lesson-3"
+echo "Script is valid, move on to lesson-4"
 echo " " 
 echo "cd .."
 echo "cd lesson-4"
